@@ -1,0 +1,30 @@
+.error {
+    color: darkred;
+}
+.post:hover {
+    transition: 0.5s;
+    transform: scale(1.02);
+}
+
+.post-link {
+    color: #000 !important;
+    text-decoration: none
+}
+.bottom-t-c {
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+    height: 50px;
+    width: 100px;
+    alignment: center;
+    padding: 10px 20px;
+}
+.form-container {
+    display: flex;
+    justify-content: center;
+}
+.square-image {
+    width: 80px;
+    height: 400px;
+    object-fit: contain;
+}
